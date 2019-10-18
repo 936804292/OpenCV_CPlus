@@ -1,0 +1,3 @@
+/home/caps/code/test/cplus/STL/CMakeFiles/edit_cache.dir
+/home/caps/code/test/cplus/STL/CMakeFiles/rebuild_cache.dir
+/home/caps/code/test/cplus/STL/CMakeFiles/vector.dir

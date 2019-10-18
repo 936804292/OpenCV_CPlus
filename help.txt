@@ -1,0 +1,6 @@
+安装
+cmakesudo make
+sudo make install
+编译
+cmake .
+make
