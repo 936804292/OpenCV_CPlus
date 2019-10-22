@@ -1,0 +1,7 @@
+/home/caps/code/test/testPcl_1.8/stereo/build/CMakeFiles/install.dir
+/home/caps/code/test/testPcl_1.8/stereo/build/CMakeFiles/list_install_components.dir
+/home/caps/code/test/testPcl_1.8/stereo/build/CMakeFiles/rebuild_cache.dir
+/home/caps/code/test/testPcl_1.8/stereo/build/CMakeFiles/stereo.dir
+/home/caps/code/test/testPcl_1.8/stereo/build/CMakeFiles/install/strip.dir
+/home/caps/code/test/testPcl_1.8/stereo/build/CMakeFiles/install/local.dir
+/home/caps/code/test/testPcl_1.8/stereo/build/CMakeFiles/edit_cache.dir

@@ -7,7 +7,6 @@ class Animal
 public:
      virtual void speak()
     {
-        cout<<"动物说话"<<endl;
     }
 
 };
@@ -16,14 +15,12 @@ class Cat:public Animal{
 public:
     void speak()
     {
-        cout<<"猫叫"<<endl;
     }
 }; 
 
 class Dog:public Animal{
     void speak()
     {
-        cout<<"小狗说话"<<endl;
     }
 };
 
