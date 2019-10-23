@@ -4,3 +4,6 @@ sudo make install
 编译
 cmake .
 make
+
+
+git push origin master

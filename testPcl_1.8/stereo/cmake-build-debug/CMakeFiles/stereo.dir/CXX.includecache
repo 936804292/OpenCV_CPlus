@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/caps/code/test/testPcl_1.8/stereo/stereo.cpp
+/home/caps/code/program/testPcl_1.8/stereo/stereo.cpp
 opencv2/opencv.hpp
 -
 vector
